@@ -8,7 +8,6 @@ import google.generativeai as genai
 
 import openmeteo_requests
 import requests_cache
-import pandas as pd
 from retry_requests import retry
 
 # Load environment variables
